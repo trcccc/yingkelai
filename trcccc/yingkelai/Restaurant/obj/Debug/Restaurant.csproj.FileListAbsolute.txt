@@ -1,0 +1,263 @@
+E:\课程文件\c#\Restaurant\Restaurant\bin\Debug\Restaurant.exe.config
+E:\课程文件\c#\Restaurant\Restaurant\bin\Debug\Restaurant.exe
+E:\课程文件\c#\Restaurant\Restaurant\bin\Debug\Restaurant.pdb
+E:\课程文件\c#\Restaurant\Restaurant\obj\Debug\Restaurant.csprojResolveAssemblyReference.cache
+E:\课程文件\c#\Restaurant\Restaurant\obj\Debug\Restaurant.DeskInformation.resources
+E:\课程文件\c#\Restaurant\Restaurant\obj\Debug\Restaurant.Form1.resources
+E:\课程文件\c#\Restaurant\Restaurant\obj\Debug\Restaurant.Properties.Resources.resources
+E:\课程文件\c#\Restaurant\Restaurant\obj\Debug\Restaurant.csproj.GenerateResource.Cache
+E:\课程文件\c#\Restaurant\Restaurant\obj\Debug\Restaurant.exe
+E:\课程文件\c#\Restaurant\Restaurant\obj\Debug\Restaurant.pdb
+E:\课程文件\c#\Restaurant\Restaurant\obj\Debug\Restaurant.Log.resources
+E:\课程文件\c#\Restaurant\Restaurant\obj\Debug\Restaurant.AddDesk.resources
+E:\课程文件\c#\Restaurant\Restaurant\obj\Debug\Restaurant.DeleteDesk.resources
+E:\课程文件\c#\Restaurant\Restaurant\obj\Debug\Restaurant.UpdateDesk.resources
+E:\学习\Restaurant\Restaurant\bin\Debug\Restaurant.exe.config
+E:\学习\Restaurant\Restaurant\obj\Debug\Restaurant.exe
+E:\学习\Restaurant\Restaurant\obj\Debug\Restaurant.pdb
+E:\学习\Restaurant\Restaurant\bin\Debug\Restaurant.exe
+E:\学习\Restaurant\Restaurant\bin\Debug\Restaurant.pdb
+E:\学习\Restaurant\Restaurant\obj\Debug\Restaurant.csprojResolveAssemblyReference.cache
+E:\学习\Restaurant\Restaurant\obj\Debug\Restaurant.AddDesk.resources
+E:\学习\Restaurant\Restaurant\obj\Debug\Restaurant.DeleteDesk.resources
+E:\学习\Restaurant\Restaurant\obj\Debug\Restaurant.DeskInformation.resources
+E:\学习\Restaurant\Restaurant\obj\Debug\Restaurant.Form1.resources
+E:\学习\Restaurant\Restaurant\obj\Debug\Restaurant.Log.resources
+E:\学习\Restaurant\Restaurant\obj\Debug\Restaurant.OpenForm.resources
+E:\学习\Restaurant\Restaurant\obj\Debug\Restaurant.Properties.Resources.resources
+E:\学习\Restaurant\Restaurant\obj\Debug\Restaurant.UpdateDesk.resources
+E:\学习\Restaurant\Restaurant\obj\Debug\Restaurant.csproj.GenerateResource.Cache
+E:\学习\Restaurant\Restaurant\obj\Debug\Restaurant.Opentable.resources
+E:\学习\Restaurant\Restaurant\obj\Debug\Restaurant.Ljiezhang.resources
+H:\Restaurant\Restaurant\bin\Debug\Restaurant.exe.config
+H:\Restaurant\Restaurant\obj\Debug\Restaurant.exe
+H:\Restaurant\Restaurant\obj\Debug\Restaurant.pdb
+H:\Restaurant\Restaurant\bin\Debug\Restaurant.exe
+H:\Restaurant\Restaurant\bin\Debug\Restaurant.pdb
+H:\Restaurant\Restaurant\obj\Debug\Restaurant.csprojResolveAssemblyReference.cache
+H:\Restaurant\Restaurant\obj\Debug\Restaurant.AddDesk.resources
+H:\Restaurant\Restaurant\obj\Debug\Restaurant.DeleteDesk.resources
+H:\Restaurant\Restaurant\obj\Debug\Restaurant.DeskInformation.resources
+H:\Restaurant\Restaurant\obj\Debug\Restaurant.Form1.resources
+H:\Restaurant\Restaurant\obj\Debug\Restaurant.Ljiezhang.resources
+H:\Restaurant\Restaurant\obj\Debug\Restaurant.Log.resources
+H:\Restaurant\Restaurant\obj\Debug\Restaurant.OpenForm.resources
+H:\Restaurant\Restaurant\obj\Debug\Restaurant.Opentable.resources
+H:\Restaurant\Restaurant\obj\Debug\Restaurant.Properties.Resources.resources
+H:\Restaurant\Restaurant\obj\Debug\Restaurant.UpdateDesk.resources
+H:\Restaurant\Restaurant\obj\Debug\Restaurant.csproj.GenerateResource.Cache
+C:\Users\Administrator.USER-20150412MD\Desktop\Restaurant\Restaurant\bin\Debug\Restaurant.exe.config
+C:\Users\Administrator.USER-20150412MD\Desktop\Restaurant\Restaurant\obj\Debug\Restaurant.exe
+C:\Users\Administrator.USER-20150412MD\Desktop\Restaurant\Restaurant\obj\Debug\Restaurant.pdb
+C:\Users\Administrator.USER-20150412MD\Desktop\Restaurant\Restaurant\bin\Debug\Restaurant.exe
+C:\Users\Administrator.USER-20150412MD\Desktop\Restaurant\Restaurant\bin\Debug\Restaurant.pdb
+C:\Users\Administrator.USER-20150412MD\Desktop\Restaurant\Restaurant\obj\Debug\Restaurant.csprojResolveAssemblyReference.cache
+C:\Users\Administrator.USER-20150412MD\Desktop\Restaurant\Restaurant\obj\Debug\Restaurant.AddDesk.resources
+C:\Users\Administrator.USER-20150412MD\Desktop\Restaurant\Restaurant\obj\Debug\Restaurant.DeleteDesk.resources
+C:\Users\Administrator.USER-20150412MD\Desktop\Restaurant\Restaurant\obj\Debug\Restaurant.DeskInformation.resources
+C:\Users\Administrator.USER-20150412MD\Desktop\Restaurant\Restaurant\obj\Debug\Restaurant.Form1.resources
+C:\Users\Administrator.USER-20150412MD\Desktop\Restaurant\Restaurant\obj\Debug\Restaurant.Log.resources
+C:\Users\Administrator.USER-20150412MD\Desktop\Restaurant\Restaurant\obj\Debug\Restaurant.OpenForm.resources
+C:\Users\Administrator.USER-20150412MD\Desktop\Restaurant\Restaurant\obj\Debug\Restaurant.Opentable.resources
+C:\Users\Administrator.USER-20150412MD\Desktop\Restaurant\Restaurant\obj\Debug\Restaurant.Properties.Resources.resources
+C:\Users\Administrator.USER-20150412MD\Desktop\Restaurant\Restaurant\obj\Debug\Restaurant.UpdateDesk.resources
+C:\Users\Administrator.USER-20150412MD\Desktop\Restaurant\Restaurant\obj\Debug\Restaurant.csproj.GenerateResource.Cache
+I:\Restaurant\Restaurant\bin\Debug\Restaurant.exe.config
+I:\Restaurant\Restaurant\obj\Debug\Restaurant.exe
+I:\Restaurant\Restaurant\obj\Debug\Restaurant.pdb
+I:\Restaurant\Restaurant\bin\Debug\Restaurant.exe
+I:\Restaurant\Restaurant\bin\Debug\Restaurant.pdb
+I:\Restaurant\Restaurant\obj\Debug\Restaurant.csprojResolveAssemblyReference.cache
+I:\Restaurant\Restaurant\obj\Debug\Restaurant.AddDesk.resources
+I:\Restaurant\Restaurant\obj\Debug\Restaurant.AddWorker.resources
+I:\Restaurant\Restaurant\obj\Debug\Restaurant.DeleteDesk.resources
+I:\Restaurant\Restaurant\obj\Debug\Restaurant.DeleteWorker.resources
+I:\Restaurant\Restaurant\obj\Debug\Restaurant.DeskInformation.resources
+I:\Restaurant\Restaurant\obj\Debug\Restaurant.Form1.resources
+I:\Restaurant\Restaurant\obj\Debug\Restaurant.Log.resources
+I:\Restaurant\Restaurant\obj\Debug\Restaurant.OpenForm.resources
+I:\Restaurant\Restaurant\obj\Debug\Restaurant.Opentable.resources
+I:\Restaurant\Restaurant\obj\Debug\Restaurant.Properties.Resources.resources
+I:\Restaurant\Restaurant\obj\Debug\Restaurant.UpdataWorker.resources
+I:\Restaurant\Restaurant\obj\Debug\Restaurant.UpdateDesk.resources
+I:\Restaurant\Restaurant\obj\Debug\Restaurant.WorkerInformation.resources
+I:\Restaurant\Restaurant\obj\Debug\Restaurant.csproj.GenerateResource.Cache
+F:\Restaurant\Restaurant\bin\Debug\Restaurant.exe.config
+F:\Restaurant\Restaurant\obj\Debug\Restaurant.exe
+F:\Restaurant\Restaurant\obj\Debug\Restaurant.pdb
+F:\Restaurant\Restaurant\obj\Debug\Restaurant.csprojResolveAssemblyReference.cache
+F:\Restaurant\Restaurant\obj\Debug\Restaurant.AddDesk.resources
+F:\Restaurant\Restaurant\obj\Debug\Restaurant.AddWorker.resources
+F:\Restaurant\Restaurant\obj\Debug\Restaurant.DeleteDesk.resources
+F:\Restaurant\Restaurant\obj\Debug\Restaurant.DeleteWorker.resources
+F:\Restaurant\Restaurant\obj\Debug\Restaurant.DeskInformation.resources
+F:\Restaurant\Restaurant\obj\Debug\Restaurant.Form1.resources
+F:\Restaurant\Restaurant\obj\Debug\Restaurant.Log.resources
+F:\Restaurant\Restaurant\obj\Debug\Restaurant.OpenForm.resources
+F:\Restaurant\Restaurant\obj\Debug\Restaurant.Opentable.resources
+F:\Restaurant\Restaurant\obj\Debug\Restaurant.Properties.Resources.resources
+F:\Restaurant\Restaurant\obj\Debug\Restaurant.UpdataWorker.resources
+F:\Restaurant\Restaurant\obj\Debug\Restaurant.UpdateDesk.resources
+F:\Restaurant\Restaurant\obj\Debug\Restaurant.WorkerInformation.resources
+F:\Restaurant\Restaurant\obj\Debug\Restaurant.csproj.GenerateResource.Cache
+F:\Restaurant\Restaurant\bin\Debug\Restaurant.exe
+F:\Restaurant\Restaurant\bin\Debug\Restaurant.pdb
+I:\新建文件夹\Restaurant\Restaurant\bin\Debug\Restaurant.exe.config
+I:\新建文件夹\Restaurant\Restaurant\obj\Debug\Restaurant.exe
+I:\新建文件夹\Restaurant\Restaurant\obj\Debug\Restaurant.pdb
+I:\新建文件夹\Restaurant\Restaurant\bin\Debug\Restaurant.exe
+I:\新建文件夹\Restaurant\Restaurant\bin\Debug\Restaurant.pdb
+I:\新建文件夹\Restaurant\Restaurant\obj\Debug\Restaurant.csprojResolveAssemblyReference.cache
+I:\新建文件夹\Restaurant\Restaurant\obj\Debug\Restaurant.AddDesk.resources
+I:\新建文件夹\Restaurant\Restaurant\obj\Debug\Restaurant.AddWorker.resources
+I:\新建文件夹\Restaurant\Restaurant\obj\Debug\Restaurant.DeleteDesk.resources
+I:\新建文件夹\Restaurant\Restaurant\obj\Debug\Restaurant.DeleteWorker.resources
+I:\新建文件夹\Restaurant\Restaurant\obj\Debug\Restaurant.DeskInformation.resources
+I:\新建文件夹\Restaurant\Restaurant\obj\Debug\Restaurant.Form1.resources
+I:\新建文件夹\Restaurant\Restaurant\obj\Debug\Restaurant.Log.resources
+I:\新建文件夹\Restaurant\Restaurant\obj\Debug\Restaurant.OpenForm.resources
+I:\新建文件夹\Restaurant\Restaurant\obj\Debug\Restaurant.Opentable.resources
+I:\新建文件夹\Restaurant\Restaurant\obj\Debug\Restaurant.Properties.Resources.resources
+I:\新建文件夹\Restaurant\Restaurant\obj\Debug\Restaurant.UpdataWorker.resources
+I:\新建文件夹\Restaurant\Restaurant\obj\Debug\Restaurant.UpdateDesk.resources
+I:\新建文件夹\Restaurant\Restaurant\obj\Debug\Restaurant.WorkerInformation.resources
+I:\新建文件夹\Restaurant\Restaurant\obj\Debug\Restaurant.csproj.GenerateResource.Cache
+H:\新建文件夹\Restaurant\Restaurant\bin\Debug\Restaurant.exe.config
+H:\新建文件夹\Restaurant\Restaurant\obj\Debug\Restaurant.exe
+H:\新建文件夹\Restaurant\Restaurant\obj\Debug\Restaurant.pdb
+H:\新建文件夹\Restaurant\Restaurant\bin\Debug\Restaurant.exe
+H:\新建文件夹\Restaurant\Restaurant\bin\Debug\Restaurant.pdb
+H:\新建文件夹\Restaurant\Restaurant\obj\Debug\Restaurant.csprojResolveAssemblyReference.cache
+H:\新建文件夹\Restaurant\Restaurant\obj\Debug\Restaurant.AddDesk.resources
+H:\新建文件夹\Restaurant\Restaurant\obj\Debug\Restaurant.AddWorker.resources
+H:\新建文件夹\Restaurant\Restaurant\obj\Debug\Restaurant.DeleteDesk.resources
+H:\新建文件夹\Restaurant\Restaurant\obj\Debug\Restaurant.DeleteWorker.resources
+H:\新建文件夹\Restaurant\Restaurant\obj\Debug\Restaurant.DeskInformation.resources
+H:\新建文件夹\Restaurant\Restaurant\obj\Debug\Restaurant.Form1.resources
+H:\新建文件夹\Restaurant\Restaurant\obj\Debug\Restaurant.Log.resources
+H:\新建文件夹\Restaurant\Restaurant\obj\Debug\Restaurant.OpenForm.resources
+H:\新建文件夹\Restaurant\Restaurant\obj\Debug\Restaurant.Opentable.resources
+H:\新建文件夹\Restaurant\Restaurant\obj\Debug\Restaurant.Properties.Resources.resources
+H:\新建文件夹\Restaurant\Restaurant\obj\Debug\Restaurant.UpdataWorker.resources
+H:\新建文件夹\Restaurant\Restaurant\obj\Debug\Restaurant.UpdateDesk.resources
+H:\新建文件夹\Restaurant\Restaurant\obj\Debug\Restaurant.WorkerInformation.resources
+H:\新建文件夹\Restaurant\Restaurant\obj\Debug\Restaurant.csproj.GenerateResource.Cache
+E:\课程文件\c#\Restaurant——1.0\Restaurant\bin\Debug\Restaurant.exe.config
+E:\课程文件\c#\Restaurant——1.0\Restaurant\obj\Debug\Restaurant.exe
+E:\课程文件\c#\Restaurant——1.0\Restaurant\obj\Debug\Restaurant.pdb
+E:\课程文件\c#\Restaurant——1.0\Restaurant\bin\Debug\Restaurant.exe
+E:\课程文件\c#\Restaurant——1.0\Restaurant\bin\Debug\Restaurant.pdb
+E:\课程文件\c#\Restaurant——1.0\Restaurant\obj\Debug\Restaurant.csprojResolveAssemblyReference.cache
+E:\课程文件\c#\Restaurant——1.0\Restaurant\obj\Debug\Restaurant.AddDesk.resources
+E:\课程文件\c#\Restaurant——1.0\Restaurant\obj\Debug\Restaurant.AddWorker.resources
+E:\课程文件\c#\Restaurant——1.0\Restaurant\obj\Debug\Restaurant.DeskInformation.resources
+E:\课程文件\c#\Restaurant——1.0\Restaurant\obj\Debug\Restaurant.Form1.resources
+E:\课程文件\c#\Restaurant——1.0\Restaurant\obj\Debug\Restaurant.Log.resources
+E:\课程文件\c#\Restaurant——1.0\Restaurant\obj\Debug\Restaurant.OpenForm.resources
+E:\课程文件\c#\Restaurant——1.0\Restaurant\obj\Debug\Restaurant.Opentable.resources
+E:\课程文件\c#\Restaurant——1.0\Restaurant\obj\Debug\Restaurant.Properties.Resources.resources
+E:\课程文件\c#\Restaurant——1.0\Restaurant\obj\Debug\Restaurant.UpdataWorker.resources
+E:\课程文件\c#\Restaurant——1.0\Restaurant\obj\Debug\Restaurant.UpdateDesk.resources
+E:\课程文件\c#\Restaurant——1.0\Restaurant\obj\Debug\Restaurant.WorkerInformation.resources
+E:\课程文件\c#\Restaurant——1.0\Restaurant\obj\Debug\Restaurant.csproj.GenerateResource.Cache
+E:\课程文件\c#\Restaurant——1.0\Restaurant\obj\Debug\Restaurant.Order.resources
+E:\课程文件\c#\Restaurant——1.0\Restaurant\obj\Debug\Restaurant.AddMenu.resources
+E:\课程文件\c#\Restaurant——1.0\Restaurant\obj\Debug\Restaurant.ViewOrder.resources
+H:\Restaurant——1.0\Restaurant\bin\Debug\Restaurant.exe.config
+H:\Restaurant——1.0\Restaurant\obj\Debug\Restaurant.exe
+H:\Restaurant——1.0\Restaurant\obj\Debug\Restaurant.pdb
+H:\Restaurant——1.0\Restaurant\bin\Debug\Restaurant.exe
+H:\Restaurant——1.0\Restaurant\bin\Debug\Restaurant.pdb
+H:\Restaurant——1.0\Restaurant\obj\Debug\Restaurant.csprojResolveAssemblyReference.cache
+H:\Restaurant——1.0\Restaurant\obj\Debug\Restaurant.AddDesk.resources
+H:\Restaurant——1.0\Restaurant\obj\Debug\Restaurant.AddWorker.resources
+H:\Restaurant——1.0\Restaurant\obj\Debug\Restaurant.DeskInformation.resources
+H:\Restaurant——1.0\Restaurant\obj\Debug\Restaurant.Form1.resources
+H:\Restaurant——1.0\Restaurant\obj\Debug\Restaurant.Log.resources
+H:\Restaurant——1.0\Restaurant\obj\Debug\Restaurant.AddMenu.resources
+H:\Restaurant——1.0\Restaurant\obj\Debug\Restaurant.OpenForm.resources
+H:\Restaurant——1.0\Restaurant\obj\Debug\Restaurant.Opentable.resources
+H:\Restaurant——1.0\Restaurant\obj\Debug\Restaurant.Order.resources
+H:\Restaurant——1.0\Restaurant\obj\Debug\Restaurant.Payment.resources
+H:\Restaurant——1.0\Restaurant\obj\Debug\Restaurant.Properties.Resources.resources
+H:\Restaurant——1.0\Restaurant\obj\Debug\Restaurant.UpdataWorker.resources
+H:\Restaurant——1.0\Restaurant\obj\Debug\Restaurant.UpdateDesk.resources
+H:\Restaurant——1.0\Restaurant\obj\Debug\Restaurant.ViewOrder.resources
+H:\Restaurant——1.0\Restaurant\obj\Debug\Restaurant.WorkerInformation.resources
+H:\Restaurant——1.0\Restaurant\obj\Debug\Restaurant.csproj.GenerateResource.Cache
+C:\Users\Administrator.USER-20150412MD\Desktop\Restaurant——1.1\Restaurant\bin\Debug\Restaurant.exe.config
+C:\Users\Administrator.USER-20150412MD\Desktop\Restaurant——1.1\Restaurant\obj\Debug\Restaurant.exe
+C:\Users\Administrator.USER-20150412MD\Desktop\Restaurant——1.1\Restaurant\obj\Debug\Restaurant.pdb
+C:\Users\Administrator.USER-20150412MD\Desktop\Restaurant——1.1\Restaurant\bin\Debug\Restaurant.exe
+C:\Users\Administrator.USER-20150412MD\Desktop\Restaurant——1.1\Restaurant\bin\Debug\Restaurant.pdb
+C:\Users\Administrator.USER-20150412MD\Desktop\Restaurant——1.1\Restaurant\obj\Debug\Restaurant.csprojResolveAssemblyReference.cache
+C:\Users\Administrator.USER-20150412MD\Desktop\Restaurant——1.1\Restaurant\obj\Debug\Restaurant.AddDesk.resources
+C:\Users\Administrator.USER-20150412MD\Desktop\Restaurant——1.1\Restaurant\obj\Debug\Restaurant.AddWorker.resources
+C:\Users\Administrator.USER-20150412MD\Desktop\Restaurant——1.1\Restaurant\obj\Debug\Restaurant.DeskInformation.resources
+C:\Users\Administrator.USER-20150412MD\Desktop\Restaurant——1.1\Restaurant\obj\Debug\Restaurant.Form1.resources
+C:\Users\Administrator.USER-20150412MD\Desktop\Restaurant——1.1\Restaurant\obj\Debug\Restaurant.Log.resources
+C:\Users\Administrator.USER-20150412MD\Desktop\Restaurant——1.1\Restaurant\obj\Debug\Restaurant.AddMenu.resources
+C:\Users\Administrator.USER-20150412MD\Desktop\Restaurant——1.1\Restaurant\obj\Debug\Restaurant.OpenForm.resources
+C:\Users\Administrator.USER-20150412MD\Desktop\Restaurant——1.1\Restaurant\obj\Debug\Restaurant.Opentable.resources
+C:\Users\Administrator.USER-20150412MD\Desktop\Restaurant——1.1\Restaurant\obj\Debug\Restaurant.Order.resources
+C:\Users\Administrator.USER-20150412MD\Desktop\Restaurant——1.1\Restaurant\obj\Debug\Restaurant.Payment.resources
+C:\Users\Administrator.USER-20150412MD\Desktop\Restaurant——1.1\Restaurant\obj\Debug\Restaurant.Properties.Resources.resources
+C:\Users\Administrator.USER-20150412MD\Desktop\Restaurant——1.1\Restaurant\obj\Debug\Restaurant.UpdataWorker.resources
+C:\Users\Administrator.USER-20150412MD\Desktop\Restaurant——1.1\Restaurant\obj\Debug\Restaurant.UpdateDesk.resources
+C:\Users\Administrator.USER-20150412MD\Desktop\Restaurant——1.1\Restaurant\obj\Debug\Restaurant.WorkerInformation.resources
+C:\Users\Administrator.USER-20150412MD\Desktop\Restaurant——1.1\Restaurant\obj\Debug\Restaurant.csproj.GenerateResource.Cache
+C:\Users\Administrator.USER-20150412MD\Desktop\Restaurant——1.1\Restaurant\obj\Debug\Restaurant.btn_fresh.resources
+C:\Users\25236\Desktop\Restaurant-Management-master\Restaurant\bin\Debug\Restaurant.exe.config
+C:\Users\25236\Desktop\Restaurant-Management-master\Restaurant\bin\Debug\Restaurant.exe
+C:\Users\25236\Desktop\Restaurant-Management-master\Restaurant\bin\Debug\Restaurant.pdb
+C:\Users\25236\Desktop\Restaurant-Management-master\Restaurant\obj\Debug\Restaurant.csprojAssemblyReference.cache
+C:\Users\25236\Desktop\Restaurant-Management-master\Restaurant\obj\Debug\Restaurant.AddDesk.resources
+C:\Users\25236\Desktop\Restaurant-Management-master\Restaurant\obj\Debug\Restaurant.AddWorker.resources
+C:\Users\25236\Desktop\Restaurant-Management-master\Restaurant\obj\Debug\Restaurant.DeskInformation.resources
+C:\Users\25236\Desktop\Restaurant-Management-master\Restaurant\obj\Debug\Restaurant.Form1.resources
+C:\Users\25236\Desktop\Restaurant-Management-master\Restaurant\obj\Debug\Restaurant.Log.resources
+C:\Users\25236\Desktop\Restaurant-Management-master\Restaurant\obj\Debug\Restaurant.AddMenu.resources
+C:\Users\25236\Desktop\Restaurant-Management-master\Restaurant\obj\Debug\Restaurant.OpenForm.resources
+C:\Users\25236\Desktop\Restaurant-Management-master\Restaurant\obj\Debug\Restaurant.Opentable.resources
+C:\Users\25236\Desktop\Restaurant-Management-master\Restaurant\obj\Debug\Restaurant.Order.resources
+C:\Users\25236\Desktop\Restaurant-Management-master\Restaurant\obj\Debug\Restaurant.Payment.resources
+C:\Users\25236\Desktop\Restaurant-Management-master\Restaurant\obj\Debug\Restaurant.Properties.Resources.resources
+C:\Users\25236\Desktop\Restaurant-Management-master\Restaurant\obj\Debug\Restaurant.UpdataWorker.resources
+C:\Users\25236\Desktop\Restaurant-Management-master\Restaurant\obj\Debug\Restaurant.UpdateDesk.resources
+C:\Users\25236\Desktop\Restaurant-Management-master\Restaurant\obj\Debug\Restaurant.btn_fresh.resources
+C:\Users\25236\Desktop\Restaurant-Management-master\Restaurant\obj\Debug\Restaurant.WorkerInformation.resources
+C:\Users\25236\Desktop\Restaurant-Management-master\Restaurant\obj\Debug\Restaurant.csproj.GenerateResource.cache
+C:\Users\25236\Desktop\Restaurant-Management-master\Restaurant\obj\Debug\Restaurant.csproj.CoreCompileInputs.cache
+C:\Users\25236\Desktop\Restaurant-Management-master\Restaurant\obj\Debug\Restaurant.exe
+C:\Users\25236\Desktop\Restaurant-Management-master\Restaurant\obj\Debug\Restaurant.pdb
+C:\Users\25236\Desktop\Restaurant-Management-master\Restaurant\bin\Debug\Restaurant.exe.manifest
+C:\Users\25236\Desktop\Restaurant-Management-master\Restaurant\bin\Debug\Restaurant.application
+C:\Users\25236\Desktop\Restaurant-Management-master\Restaurant\obj\Debug\Restaurant.exe.manifest
+C:\Users\25236\Desktop\Restaurant-Management-master\Restaurant\obj\Debug\Restaurant.application
+C:\Users\93751\Documents\Tencent Files\937510025\FileRecv\迎客来\Restaurant\bin\Debug\Restaurant.exe.config
+C:\Users\93751\Documents\Tencent Files\937510025\FileRecv\迎客来\Restaurant\bin\Debug\Restaurant.exe.manifest
+C:\Users\93751\Documents\Tencent Files\937510025\FileRecv\迎客来\Restaurant\bin\Debug\Restaurant.application
+C:\Users\93751\Documents\Tencent Files\937510025\FileRecv\迎客来\Restaurant\bin\Debug\Restaurant.exe
+C:\Users\93751\Documents\Tencent Files\937510025\FileRecv\迎客来\Restaurant\bin\Debug\Restaurant.pdb
+C:\Users\93751\Documents\Tencent Files\937510025\FileRecv\迎客来\Restaurant\obj\Debug\Restaurant.csprojAssemblyReference.cache
+C:\Users\93751\Documents\Tencent Files\937510025\FileRecv\迎客来\Restaurant\obj\Debug\Restaurant.Log.resources
+C:\Users\93751\Documents\Tencent Files\937510025\FileRecv\迎客来\Restaurant\obj\Debug\Restaurant.Properties.Resources.resources
+C:\Users\93751\Documents\Tencent Files\937510025\FileRecv\迎客来\Restaurant\obj\Debug\Restaurant.btn_fresh.resources
+C:\Users\93751\Documents\Tencent Files\937510025\FileRecv\迎客来\Restaurant\obj\Debug\Restaurant.csproj.GenerateResource.cache
+C:\Users\93751\Documents\Tencent Files\937510025\FileRecv\迎客来\Restaurant\obj\Debug\Restaurant.csproj.CoreCompileInputs.cache
+C:\Users\93751\Documents\Tencent Files\937510025\FileRecv\迎客来\Restaurant\obj\Debug\Restaurant.exe.manifest
+C:\Users\93751\Documents\Tencent Files\937510025\FileRecv\迎客来\Restaurant\obj\Debug\Restaurant.application
+C:\Users\93751\Documents\Tencent Files\937510025\FileRecv\迎客来\Restaurant\obj\Debug\Restaurant.exe
+C:\Users\93751\Documents\Tencent Files\937510025\FileRecv\迎客来\Restaurant\obj\Debug\Restaurant.pdb
+C:\Users\93751\Documents\Tencent Files\937510025\FileRecv\迎客来\Restaurant\obj\Debug\Restaurant.增加桌台.resources
+C:\Users\93751\Documents\Tencent Files\937510025\FileRecv\迎客来\Restaurant\obj\Debug\Restaurant.增加员工.resources
+C:\Users\93751\Documents\Tencent Files\937510025\FileRecv\迎客来\Restaurant\obj\Debug\Restaurant.查询桌台.resources
+C:\Users\93751\Documents\Tencent Files\937510025\FileRecv\迎客来\Restaurant\obj\Debug\Restaurant.主界面.resources
+C:\Users\93751\Documents\Tencent Files\937510025\FileRecv\迎客来\Restaurant\obj\Debug\Restaurant.添加菜单.resources
+C:\Users\93751\Documents\Tencent Files\937510025\FileRecv\迎客来\Restaurant\obj\Debug\Restaurant.开台.resources
+C:\Users\93751\Documents\Tencent Files\937510025\FileRecv\迎客来\Restaurant\obj\Debug\Restaurant.结账和查询.resources
+C:\Users\93751\Documents\Tencent Files\937510025\FileRecv\迎客来\Restaurant\obj\Debug\Restaurant.点菜.resources
+C:\Users\93751\Documents\Tencent Files\937510025\FileRecv\迎客来\Restaurant\obj\Debug\Restaurant.结账.resources
+C:\Users\93751\Documents\Tencent Files\937510025\FileRecv\迎客来\Restaurant\obj\Debug\Restaurant.更新员工.resources
+C:\Users\93751\Documents\Tencent Files\937510025\FileRecv\迎客来\Restaurant\obj\Debug\Restaurant.更新桌台.resources
+C:\Users\93751\Documents\Tencent Files\937510025\FileRecv\迎客来\Restaurant\obj\Debug\Restaurant.员工信息.resources

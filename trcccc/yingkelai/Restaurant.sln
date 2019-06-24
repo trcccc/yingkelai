@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29001.49
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "迎客来", "Restaurant\迎客来.csproj", "{3088E7E5-CA17-4E96-B516-5082F133F9C7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		CD_ROM|Any CPU = CD_ROM|Any CPU
+		Debug|Any CPU = Debug|Any CPU
+		DVD-5|Any CPU = DVD-5|Any CPU
+		Release|Any CPU = Release|Any CPU
+		SingleImage|Any CPU = SingleImage|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3088E7E5-CA17-4E96-B516-5082F133F9C7}.CD_ROM|Any CPU.ActiveCfg = Release|Any CPU
+		{3088E7E5-CA17-4E96-B516-5082F133F9C7}.CD_ROM|Any CPU.Build.0 = Release|Any CPU
+		{3088E7E5-CA17-4E96-B516-5082F133F9C7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3088E7E5-CA17-4E96-B516-5082F133F9C7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3088E7E5-CA17-4E96-B516-5082F133F9C7}.DVD-5|Any CPU.ActiveCfg = Debug|Any CPU
+		{3088E7E5-CA17-4E96-B516-5082F133F9C7}.DVD-5|Any CPU.Build.0 = Debug|Any CPU
+		{3088E7E5-CA17-4E96-B516-5082F133F9C7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3088E7E5-CA17-4E96-B516-5082F133F9C7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3088E7E5-CA17-4E96-B516-5082F133F9C7}.SingleImage|Any CPU.ActiveCfg = Release|Any CPU
+		{3088E7E5-CA17-4E96-B516-5082F133F9C7}.SingleImage|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BA8CE4A5-55F0-443B-8F14-ACEDD57A5ECF}
+	EndGlobalSection
+EndGlobal
